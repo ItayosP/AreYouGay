@@ -1,0 +1,7 @@
+1. create the GUI itself
+
+2. random coordinates (x & y)
+
+3. save the coordinates to var
+
+4. if mouse location = coordinates so 1
